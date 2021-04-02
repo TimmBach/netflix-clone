@@ -1,6 +1,7 @@
 # Netflix clone
 
 A responsive netflix clone built with the TMDB movies API and youtube trailer functionality.
+App is hosted at: https://netflix-clone-a028a.web.app/
 
 # Technologies used
 
